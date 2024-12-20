@@ -7,7 +7,6 @@ import {
 } from "@expo/vector-icons";
 import { BlurView } from "expo-blur";
 import { Tabs } from "expo-router";
-import { StyleSheet } from "react-native";
 
 const TabsNavigation = () => {
   return (
